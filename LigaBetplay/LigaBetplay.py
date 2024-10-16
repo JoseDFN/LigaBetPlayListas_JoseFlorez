@@ -66,8 +66,6 @@ if(__name__ == '__main__'):
                 case 4:
                     pass
                 case 5:
-                    pass
-                case 6:
                     LigaProgAct = False
         except:
             print ("La opcion ingresada no concuerda con las opciones dadas")
